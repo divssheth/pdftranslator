@@ -1,0 +1,9 @@
+pdf2image
+python-dotenv
+azure-ai-formrecognizer
+opencv-python
+arabic_reshaper
+python-bidi
+azure-ai-textanalytics
+langchain
+openai

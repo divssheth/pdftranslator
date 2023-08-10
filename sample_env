@@ -1,0 +1,12 @@
+FR_ENDPOINT = ""
+FR_KEY = ""
+
+FR_MODEL_ID = "<model_id>"
+AZURE_OPENAI_ENDPOINT = "https://eastus.api.cognitive.microsoft.com/"
+AZURE_OPENAI_API_KEY = ""
+AZURE_OPENAI_API_VERSION = ""
+AZURE_OPENAI_MODEL_ID = "<deployment_name>"
+
+POPPLER_PATH = "C:\\Program Files\\poppler-0.68.0\\bin" #Change this accordingly
+SOURCE_LANGUAGE = "en"
+TARGET_LANGUAGE = "spanish"
